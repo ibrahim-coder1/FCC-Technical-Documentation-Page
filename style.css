@@ -37,15 +37,17 @@ header {
 }
 
 #navbar ul li {
-padding: 15px 15px;
+
 border-top: 1px solid black;
 position: relative;
 }
 
 .nav-link {
+  padding: 15px 15px;
   text-decoration: none;
   color: black;
   font-size: 1.1rem;
+  display: block
 }
 
 
